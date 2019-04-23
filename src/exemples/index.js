@@ -1,5 +1,5 @@
-import Carousel from '../components/Carrossel'
+import Carousel from '../components/Carousel'
 
 export default {
-    Carrossel,
+    Carousel,
 }

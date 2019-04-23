@@ -8,7 +8,7 @@
 
 import React, {Component} from 'react';
 import { StyleSheet, Text, View} from 'react-native';
-import Carousel from './components/Carrossel'
+import Carousel from './components/Carousel'
 import metrics, { scale } from './theme/metrics'
 import Button from './components/Button';
 import colors from './theme/colors';
