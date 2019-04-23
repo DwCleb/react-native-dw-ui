@@ -12,7 +12,7 @@ Table of Content
 
 
 
-### Installing
+### Installing (not available yet)
 ```
 $ npm install --save react-native-dw-ui
 ```
