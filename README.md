@@ -5,7 +5,8 @@ Table of Content
 - [Getting Started](#section-getting-started)
 - [Development Workflow](#section-dev-workflow)
 - Component's Documentation
-  - [Carousel](./app/components/Carousel/doc.md)
+  - [Carousel](./src/components/Carousel/doc.md)
+  - [Button](./src/components/Button/doc.md)
 
 
 ## <a name="section-getting-started"> Getting Started </a>
